@@ -25,7 +25,7 @@ $ ansible-container install ansible.nginx-container
     $ cd myproject
 
     # Initialize the project
-    $ ansible-contiainer init
+    $ ansible-container init
     ```
 
 ## Role Variables
